@@ -1,0 +1,39 @@
+.add-title{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: 1px solid black;
+    padding: 20px;
+}
+.add-form{
+    display: flex;
+    justify-content: center;
+}
+.form-width{
+    width: 480px;
+    border: 1px solid black;
+    padding: 10px;
+}
+label {
+    width: 180px;
+    display: inline-block;
+  }
+.add-input{
+    border-radius: 0;
+    border: 1px solid black;
+    padding: 8px 10px 8px 10px;
+    width: 200px;
+}
+.form-gap{
+    margin: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.add-label{
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+  
